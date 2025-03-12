@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(155, 153, 153);
+}
+h1{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 4rem;
+}
